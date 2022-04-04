@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://xiaomirom.com/download/mi-cc-9-pro-note-10-note-10-pro-tucana-stable-V13.0.1.0.RFDCNXM/#china-recovery'
+        default: 'https://xiaomirom.com/download/mi-cc-9-pro-note-10-note-10-pro-tucana-weekly-22.2.9/#china-recovery'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_TUCANA_V13.0.1.0.RFDCNXM_572656a73d_11.0.zip'
+        default: 'miui_TUCANA_22.2.9_4959ce9155_11.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
