@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://xiaomirom.com/download/mi-cc-9-pro-note-10-note-10-pro-tucana-stable-V13.0.1.0.RFDCNXM/#china-recovery'
+        default: 'https://bigota.d.miui.com/7.12.21/miui_MIMIX_7.12.21_5ebc85c4c2_7.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_TUCANA_V13.0.1.0.RFDCNXM_572656a73d_11.0.zip'
+        default: 'miui_MIMIX_7.12.21_5ebc85c4c2_7.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
@@ -18,7 +18,7 @@ on:
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
-        default: 'A'
+        default: 'AB'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
